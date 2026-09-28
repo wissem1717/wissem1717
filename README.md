@@ -57,10 +57,12 @@
 [![soc-aaa-log-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=soc-aaa-log-analyzer&theme=default&hide_border=true)](https://github.com/wissem1717/soc-aaa-log-analyzer)
 [![ansible-cis-auditor](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=ansible-cis-auditor&theme=default&hide_border=true)](https://github.com/wissem1717/ansible-cis-auditor)
 
+[![secure-banking-app](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=secure-banking-app&theme=default&hide_border=true)](https://github.com/wissem1717/secure-banking-app)
 [![microservices-price-alerts](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=microservices-price-alerts&theme=default&hide_border=true)](https://github.com/wissem1717/microservices-price-alerts)
-[![x86-assembly-exercises](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=x86-assembly-exercises&theme=default&hide_border=true)](https://github.com/wissem1717/x86-assembly-exercises)
 
+[![-x86-assembly-exercises](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=-x86-assembly-exercises&theme=default&hide_border=true)](https://github.com/wissem1717/-x86-assembly-exercises)
 [![theorie_language](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=theorie_language&theme=default&hide_border=true)](https://github.com/wissem1717/theorie_language)
+
 [![projet-modelisation-d-objet](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=projet-modelisation-d-objet&theme=default&hide_border=true)](https://github.com/wissem1717/projet-modelisation-d-objet)
 
 </div>
@@ -69,8 +71,9 @@
 |---|---|---|
 | [**soc-aaa-log-analyzer**](https://github.com/wissem1717/soc-aaa-log-analyzer) | Stage Tunisie Télécom — détection d'anomalies sur logs AAA/TACACS+, tableau de bord SOC | `Python` `Flask` `SQLite` |
 | [**ansible-cis-auditor**](https://github.com/wissem1717/ansible-cis-auditor) | Stage Sopra Steria — audit automatisé de playbooks Ansible vs référentiel CIS | `Python` `Ansible` `YAML` |
+| [**secure-banking-app**](https://github.com/wissem1717/secure-banking-app) | Application bancaire full-stack — auth JWT par rôle, gestion clients/comptes/cartes | `Node.js` `Express` `PostgreSQL` `React/TS` |
 | [**microservices-price-alerts**](https://github.com/wissem1717/microservices-price-alerts) | Architecture microservices événementielle — alertes sur variations de prix en temps réel | `Node.js` `Kafka` |
-| [**x86-assembly-exercises**](https://github.com/wissem1717/x86-assembly-exercises) | Exercices bas niveau : pile, appels de fonctions, manipulation de caractères | `Assembleur x86` |
+| [**x86-assembly-exercises**](https://github.com/wissem1717/-x86-assembly-exercises) | Exercices bas niveau : pile, appels de fonctions, manipulation de caractères | `Assembleur x86` |
 | [**theorie_language**](https://github.com/wissem1717/theorie_language) | Grammaire et analyseur syntaxique d'un mini-langage | `Java` `JavaCC` |
 | [**projet-modelisation-d-objet**](https://github.com/wissem1717/projet-modelisation-d-objet) | Modélisation UML/OCL du jeu Rush Hour | `UML` `OCL` `USE` |
 
