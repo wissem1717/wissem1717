@@ -27,28 +27,41 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,java,js,postgres,docker,kubernetes,ansible,gitlab,linux,bash,flask,nodejs,git&theme=dark" alt="Stack technique" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitLabCI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00874A?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
 
 ### Domaines de sécurité
 
-`Sécurité réseau` · `SOC / SIEM` · `Détection d'anomalies` · `Audit de conformité CIS` ·
-`Nessus / Metasploit / Wireshark` · `OWASP Top 10` · `DevSecOps` · `Assembleur x86`
+<div align="center">
+
+![Sécurité réseau](https://img.shields.io/badge/-Sécurité_réseau-0A66C2?style=flat-square)
+![SOC/SIEM](https://img.shields.io/badge/-SOC_%2F_SIEM-0A66C2?style=flat-square)
+![Détection d'anomalies](https://img.shields.io/badge/-Détection_d'anomalies-0A66C2?style=flat-square)
+![Audit CIS](https://img.shields.io/badge/-Audit_de_conformité_CIS-0A66C2?style=flat-square)
+![OWASP](https://img.shields.io/badge/-OWASP_Top_10-2ea44f?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/-DevSecOps-2ea44f?style=flat-square)
+![Assembleur x86](https://img.shields.io/badge/-Assembleur_x86-2ea44f?style=flat-square)
+
+</div>
+
+### Activité GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wissem1717/wissem1717/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wissem1717/wissem1717/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation du graphe de contributions" src="https://raw.githubusercontent.com/wissem1717/wissem1717/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ### Projets mis en avant
 
@@ -92,3 +105,5 @@
 📄 **[Télécharger mon CV](./cv/CV_Wissem_Chedly.pdf)** · À la recherche d'un stage de fin d'études — mars 2027, 6 mois, mobile France entière
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0A66C2&height=100&section=footer" width="100%"/>
