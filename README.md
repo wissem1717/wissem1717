@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2ea44f&height=180&section=header&text=Wissem%20Chedly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Étudiant%20ingénieur%20en%20cybersécurité%20%26%20informatique&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2ea44f&height=180&section=header&text=Wissem%20Chedly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20ing%C3%A9nieur%20en%20cybers%C3%A9curit%C3%A9%20et%20informatique&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/wissem1717">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Sécurité+réseau+%7C+SOC+%2F+SIEM;DevSecOps+%7C+Développement+sécurisé;À+la+recherche+d'un+stage+PFE+—+mars+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=S%C3%A9curit%C3%A9%20r%C3%A9seau%20%7C%20SOC%20%2F%20SIEM;DevSecOps%20%7C%20D%C3%A9veloppement%20s%C3%A9curis%C3%A9;%C3%80%20la%20recherche%20d%27un%20stage%20PFE%20-%20mars%202027" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -88,11 +88,6 @@
 ```
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wissem1717&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=wissem1717&theme=default&hide_border=true" height="165"/>
-
-<br/><br/>
 
 📄 **[Télécharger mon CV](./cv/CV_Wissem_Chedly.pdf)** · À la recherche d'un stage de fin d'études — mars 2027, 6 mois, mobile France entière
 
