@@ -89,11 +89,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wissem1717&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wissem1717&show_icons=true&theme=default&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.demolab.com?user=wissem1717&theme=default&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<sub>CV disponible sur demande · À la recherche d'un stage de fin d'études — mars 2027, 6 mois, mobile France entière</sub>
+📄 **[Télécharger mon CV](./cv/CV_Wissem_Chedly.pdf)** · À la recherche d'un stage de fin d'études — mars 2027, 6 mois, mobile France entière
 
 </div>
