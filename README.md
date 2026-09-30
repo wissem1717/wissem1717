@@ -65,21 +65,6 @@
 
 ### Projets mis en avant
 
-<div align="center">
-
-[![soc-aaa-log-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=soc-aaa-log-analyzer&theme=default&hide_border=true)](https://github.com/wissem1717/soc-aaa-log-analyzer)
-[![ansible-cis-auditor](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=ansible-cis-auditor&theme=default&hide_border=true)](https://github.com/wissem1717/ansible-cis-auditor)
-
-[![secure-banking-app](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=secure-banking-app&theme=default&hide_border=true)](https://github.com/wissem1717/secure-banking-app)
-[![microservices-price-alerts](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=microservices-price-alerts&theme=default&hide_border=true)](https://github.com/wissem1717/microservices-price-alerts)
-
-[![-x86-assembly-exercises](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=-x86-assembly-exercises&theme=default&hide_border=true)](https://github.com/wissem1717/-x86-assembly-exercises)
-[![theorie_language](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=theorie_language&theme=default&hide_border=true)](https://github.com/wissem1717/theorie_language)
-
-[![projet-modelisation-d-objet](https://github-readme-stats.vercel.app/api/pin/?username=wissem1717&repo=projet-modelisation-d-objet&theme=default&hide_border=true)](https://github.com/wissem1717/projet-modelisation-d-objet)
-
-</div>
-
 | Projet | Contexte | Stack |
 |---|---|---|
 | [**soc-aaa-log-analyzer**](https://github.com/wissem1717/soc-aaa-log-analyzer) | Stage Tunisie Télécom — détection d'anomalies sur logs AAA/TACACS+, tableau de bord SOC | `Python` `Flask` `SQLite` |
